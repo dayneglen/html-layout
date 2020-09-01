@@ -1,0 +1,38 @@
+.section{
+  height: 110px;
+  width: 100%;
+}
+
+header {
+  background-color: #DCDCDC;
+  padding: 15px;
+  box-sizing: border-box;
+}
+
+.blue-box{
+  width: 80px;
+  height: 80px;
+  background-color: #2DB9FF;
+}
+
+.main-section{
+  height: 200px;
+  box-sizing: border-box;
+  padding: 50px;
+}
+
+.blue-section{
+  background-color:#0094DE;
+}
+
+.green-section{
+  background-color: #5DF3B8;
+}
+
+.lime-section{
+  background-color:#C4FF32;
+}
+
+.sunshine-section{
+  background-color: #F7B318;
+}
